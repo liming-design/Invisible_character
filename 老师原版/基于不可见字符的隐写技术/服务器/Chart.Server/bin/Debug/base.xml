@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<NCIAE CompanyName="NCIAE" ProductName="XML配置工具" version="v1.0">
+  <Database>
+    <ConnectionStr>server=DESKTOP-E1J43KI;database=Chart;User Id=WMR;Password=WMRWMRWMR;</ConnectionStr>
+  </Database>
+  <Net>
+    <Port>8000</Port>
+  </Net>
+</NCIAE>

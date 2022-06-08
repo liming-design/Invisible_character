@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client.chart", "Client.chart\Client.chart.csproj", "{671933F5-5B2D-4DC4-A279-D889DD695B5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client.core", "Client.core\Client.core.csproj", "{51220919-97FB-43C6-BEA7-0F0B241548F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{671933F5-5B2D-4DC4-A279-D889DD695B5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{671933F5-5B2D-4DC4-A279-D889DD695B5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{671933F5-5B2D-4DC4-A279-D889DD695B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{671933F5-5B2D-4DC4-A279-D889DD695B5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51220919-97FB-43C6-BEA7-0F0B241548F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51220919-97FB-43C6-BEA7-0F0B241548F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51220919-97FB-43C6-BEA7-0F0B241548F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51220919-97FB-43C6-BEA7-0F0B241548F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5677330F-172B-4CB9-ACB0-F53200D4EAFB}
+	EndGlobalSection
+EndGlobal

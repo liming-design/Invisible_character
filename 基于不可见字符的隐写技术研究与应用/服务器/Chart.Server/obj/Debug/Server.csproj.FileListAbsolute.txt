@@ -1,0 +1,9 @@
+E:\教学\2015-2016-2 网络安全技术\20160311 第06次课[实验3]\安全网络聊天工具\Server\bin\Debug\Server.exe.config
+E:\教学\2015-2016-2 网络安全技术\20160311 第06次课[实验3]\安全网络聊天工具\Server\bin\Debug\Server.exe
+E:\教学\2015-2016-2 网络安全技术\20160311 第06次课[实验3]\安全网络聊天工具\Server\bin\Debug\Server.pdb
+E:\教学\2015-2016-2 网络安全技术\20160311 第06次课[实验3]\安全网络聊天工具\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\教学\2015-2016-2 网络安全技术\20160311 第06次课[实验3]\安全网络聊天工具\Server\obj\Debug\Server.FrmMain.resources
+E:\教学\2015-2016-2 网络安全技术\20160311 第06次课[实验3]\安全网络聊天工具\Server\obj\Debug\Server.Properties.Resources.resources
+E:\教学\2015-2016-2 网络安全技术\20160311 第06次课[实验3]\安全网络聊天工具\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\教学\2015-2016-2 网络安全技术\20160311 第06次课[实验3]\安全网络聊天工具\Server\obj\Debug\Server.exe
+E:\教学\2015-2016-2 网络安全技术\20160311 第06次课[实验3]\安全网络聊天工具\Server\obj\Debug\Server.pdb

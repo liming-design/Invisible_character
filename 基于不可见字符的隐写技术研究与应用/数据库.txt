@@ -1,0 +1,30 @@
+create table UserList(
+	UserId int,
+	UserName nvarchar(50) not null,
+	Password nvarchar(50) not null,
+	HeadId int ,
+	primary key(UserId)
+	)
+
+create table tb_Message (
+	ID int IDENTITY(1,1) NOT NULL,
+	FromUserID int NOT NULL,
+	ToUserID int NOT NULL,
+	Message varbinary(500)   NULL,
+	MessageState int NOT NULL,	
+	MessageTime datetime NOT NULL CONSTRAINT [DF_tb_Message_MessageTime]  DEFAULT (getdate()),
+	MessageType int 
+)
+insert into UserList values('100','小红','123',1)
+insert into UserList values('101','小明','123',2)
+insert into UserList values('103','小黑','123',3)
+insert into UserList values('104','小1','123',4)
+insert into UserList values('105','小2','123',5)
+insert into UserList values('106','小3','123',6)
+insert into UserList values('107','小4','123',7)
+insert into UserList values('108','小5','123',8)
+insert into UserList values('109','小6','123',9)
+
+select * from UserList
+
+select * from tb_Message

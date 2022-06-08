@@ -1,0 +1,286 @@
+E:\教学\2015-2016-2 网络安全技术\20160311 第06次课[实验3]\安全网络聊天工具\Chart.Client\bin\Debug\Chart.Client.exe.config
+E:\教学\2015-2016-2 网络安全技术\20160311 第06次课[实验3]\安全网络聊天工具\Chart.Client\bin\Debug\Chart.Client.exe
+E:\教学\2015-2016-2 网络安全技术\20160311 第06次课[实验3]\安全网络聊天工具\Chart.Client\bin\Debug\Chart.Client.pdb
+E:\教学\2015-2016-2 网络安全技术\20160311 第06次课[实验3]\安全网络聊天工具\Chart.Client\bin\Debug\Chart.Core.dll
+E:\教学\2015-2016-2 网络安全技术\20160311 第06次课[实验3]\安全网络聊天工具\Chart.Client\bin\Debug\Chart.Core.pdb
+E:\教学\2015-2016-2 网络安全技术\20160311 第06次课[实验3]\安全网络聊天工具\Chart.Client\obj\Debug\Chart.Client.csprojResolveAssemblyReference.cache
+E:\教学\2015-2016-2 网络安全技术\20160311 第06次课[实验3]\安全网络聊天工具\Chart.Client\obj\Debug\Chart.Client.FrmChgPwd.resources
+E:\教学\2015-2016-2 网络安全技术\20160311 第06次课[实验3]\安全网络聊天工具\Chart.Client\obj\Debug\Chart.Client.FrmCode.resources
+E:\教学\2015-2016-2 网络安全技术\20160311 第06次课[实验3]\安全网络聊天工具\Chart.Client\obj\Debug\Chart.Client.FrmLogin.resources
+E:\教学\2015-2016-2 网络安全技术\20160311 第06次课[实验3]\安全网络聊天工具\Chart.Client\obj\Debug\Chart.Client.FrmMain.resources
+E:\教学\2015-2016-2 网络安全技术\20160311 第06次课[实验3]\安全网络聊天工具\Chart.Client\obj\Debug\Chart.Client.Properties.Resources.resources
+E:\教学\2015-2016-2 网络安全技术\20160311 第06次课[实验3]\安全网络聊天工具\Chart.Client\obj\Debug\Chart.Client.csproj.GenerateResource.Cache
+E:\教学\2015-2016-2 网络安全技术\20160311 第06次课[实验3]\安全网络聊天工具\Chart.Client\obj\Debug\Chart.Client.exe
+E:\教学\2015-2016-2 网络安全技术\20160311 第06次课[实验3]\安全网络聊天工具\Chart.Client\obj\Debug\Chart.Client.pdb
+E:\教学\2015-2016-2 网络安全技术\20160311 第06次课[实验3]\安全网络聊天工具[v1安全通讯]\Chart.Client\bin\Debug\Chart.Client.exe.config
+E:\教学\2015-2016-2 网络安全技术\20160311 第06次课[实验3]\安全网络聊天工具[v1安全通讯]\Chart.Client\obj\Debug\Chart.Client.exe
+E:\教学\2015-2016-2 网络安全技术\20160311 第06次课[实验3]\安全网络聊天工具[v1安全通讯]\Chart.Client\obj\Debug\Chart.Client.pdb
+E:\教学\2015-2016-2 网络安全技术\20160311 第06次课[实验3]\安全网络聊天工具[v1安全通讯]\Chart.Client\bin\Debug\Chart.Client.exe
+E:\教学\2015-2016-2 网络安全技术\20160311 第06次课[实验3]\安全网络聊天工具[v1安全通讯]\Chart.Client\bin\Debug\Chart.Client.pdb
+E:\教学\2015-2016-2 网络安全技术\20160311 第06次课[实验3]\安全网络聊天工具[v1安全通讯]\Chart.Client\bin\Debug\Chart.Core.dll
+E:\教学\2015-2016-2 网络安全技术\20160311 第06次课[实验3]\安全网络聊天工具[v1安全通讯]\Chart.Client\bin\Debug\Chart.Core.pdb
+E:\教学\2015-2016-2 网络安全技术\20160311 第06次课[实验3]\安全网络聊天工具[v1安全通讯]\Chart.Client\obj\Debug\Chart.Client.csprojResolveAssemblyReference.cache
+E:\教学\2015-2016-2 网络安全技术\20160311 第06次课[实验3]\安全网络聊天工具[v1安全通讯]\Chart.Client\obj\Debug\Chart.Client.FrmChgPwd.resources
+E:\教学\2015-2016-2 网络安全技术\20160311 第06次课[实验3]\安全网络聊天工具[v1安全通讯]\Chart.Client\obj\Debug\Chart.Client.FrmCode.resources
+E:\教学\2015-2016-2 网络安全技术\20160311 第06次课[实验3]\安全网络聊天工具[v1安全通讯]\Chart.Client\obj\Debug\Chart.Client.FrmLogin.resources
+E:\教学\2015-2016-2 网络安全技术\20160311 第06次课[实验3]\安全网络聊天工具[v1安全通讯]\Chart.Client\obj\Debug\Chart.Client.FrmMain.resources
+E:\教学\2015-2016-2 网络安全技术\20160311 第06次课[实验3]\安全网络聊天工具[v1安全通讯]\Chart.Client\obj\Debug\Chart.Client.Properties.Resources.resources
+E:\教学\2015-2016-2 网络安全技术\20160311 第06次课[实验3]\安全网络聊天工具[v1安全通讯]\Chart.Client\obj\Debug\Chart.Client.csproj.GenerateResource.Cache
+H:\大学\大三\大三下\安全软件开发\实验3 安全网络聊天工具2\安全网络聊天工具[源代码]\安全网络聊天工具[v1 安全通讯]\Chart.Client\bin\Debug\Chart.Client.exe.config
+H:\大学\大三\大三下\安全软件开发\实验3 安全网络聊天工具2\安全网络聊天工具[源代码]\安全网络聊天工具[v1 安全通讯]\Chart.Client\bin\Debug\Chart.Client.exe
+H:\大学\大三\大三下\安全软件开发\实验3 安全网络聊天工具2\安全网络聊天工具[源代码]\安全网络聊天工具[v1 安全通讯]\Chart.Client\bin\Debug\Chart.Client.pdb
+H:\大学\大三\大三下\安全软件开发\实验3 安全网络聊天工具2\安全网络聊天工具[源代码]\安全网络聊天工具[v1 安全通讯]\Chart.Client\bin\Debug\Chart.Core.dll
+H:\大学\大三\大三下\安全软件开发\实验3 安全网络聊天工具2\安全网络聊天工具[源代码]\安全网络聊天工具[v1 安全通讯]\Chart.Client\bin\Debug\Chart.Core.pdb
+H:\大学\大三\大三下\安全软件开发\实验3 安全网络聊天工具2\安全网络聊天工具[源代码]\安全网络聊天工具[v1 安全通讯]\Chart.Client\obj\Debug\Chart.Client.csprojResolveAssemblyReference.cache
+H:\大学\大三\大三下\安全软件开发\实验3 安全网络聊天工具2\安全网络聊天工具[源代码]\安全网络聊天工具[v1 安全通讯]\Chart.Client\obj\Debug\Chart.Client.FrmChgPwd.resources
+H:\大学\大三\大三下\安全软件开发\实验3 安全网络聊天工具2\安全网络聊天工具[源代码]\安全网络聊天工具[v1 安全通讯]\Chart.Client\obj\Debug\Chart.Client.FrmCode.resources
+H:\大学\大三\大三下\安全软件开发\实验3 安全网络聊天工具2\安全网络聊天工具[源代码]\安全网络聊天工具[v1 安全通讯]\Chart.Client\obj\Debug\Chart.Client.FrmLogin.resources
+H:\大学\大三\大三下\安全软件开发\实验3 安全网络聊天工具2\安全网络聊天工具[源代码]\安全网络聊天工具[v1 安全通讯]\Chart.Client\obj\Debug\Chart.Client.FrmMain.resources
+H:\大学\大三\大三下\安全软件开发\实验3 安全网络聊天工具2\安全网络聊天工具[源代码]\安全网络聊天工具[v1 安全通讯]\Chart.Client\obj\Debug\Chart.Client.Properties.Resources.resources
+H:\大学\大三\大三下\安全软件开发\实验3 安全网络聊天工具2\安全网络聊天工具[源代码]\安全网络聊天工具[v1 安全通讯]\Chart.Client\obj\Debug\Chart.Client.csproj.GenerateResource.Cache
+H:\大学\大三\大三下\安全软件开发\实验3 安全网络聊天工具2\安全网络聊天工具[源代码]\安全网络聊天工具[v1 安全通讯]\Chart.Client\obj\Debug\Chart.Client.exe
+H:\大学\大三\大三下\安全软件开发\实验3 安全网络聊天工具2\安全网络聊天工具[源代码]\安全网络聊天工具[v1 安全通讯]\Chart.Client\obj\Debug\Chart.Client.pdb
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具[v1 安全通讯]\Chart.Client\bin\Debug\Chart.Client.exe.config
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具[v1 安全通讯]\Chart.Client\bin\Debug\Chart.Client.exe
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具[v1 安全通讯]\Chart.Client\bin\Debug\Chart.Client.pdb
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具[v1 安全通讯]\Chart.Client\bin\Debug\Chart.Core.dll
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具[v1 安全通讯]\Chart.Client\bin\Debug\Chart.Core.pdb
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具[v1 安全通讯]\Chart.Client\obj\Debug\Chart.Client.csprojAssemblyReference.cache
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具[v1 安全通讯]\Chart.Client\obj\Debug\Chart.Client.FrmChgPwd.resources
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具[v1 安全通讯]\Chart.Client\obj\Debug\Chart.Client.FrmCode.resources
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具[v1 安全通讯]\Chart.Client\obj\Debug\Chart.Client.FrmLogin.resources
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具[v1 安全通讯]\Chart.Client\obj\Debug\Chart.Client.FrmMain.resources
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具[v1 安全通讯]\Chart.Client\obj\Debug\Chart.Client.Properties.Resources.resources
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具[v1 安全通讯]\Chart.Client\obj\Debug\Chart.Client.csproj.GenerateResource.cache
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具[v1 安全通讯]\Chart.Client\obj\Debug\Chart.Client.csproj.CoreCompileInputs.cache
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具[v1 安全通讯]\Chart.Client\obj\Debug\Chart.Client.csproj.CopyComplete
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具[v1 安全通讯]\Chart.Client\obj\Debug\Chart.Client.exe
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具[v1 安全通讯]\Chart.Client\obj\Debug\Chart.Client.pdb
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具--毕设--原稿\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\bin\Debug\Chart.Client.exe.config
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具--毕设--原稿\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\bin\Debug\Chart.Client.exe
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具--毕设--原稿\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\bin\Debug\Chart.Client.pdb
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具--毕设--原稿\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\bin\Debug\Chart.Core.dll
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具--毕设--原稿\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\bin\Debug\Chart.Core.pdb
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具--毕设--原稿\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\obj\Debug\Chart.Client.csprojAssemblyReference.cache
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具--毕设--原稿\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\obj\Debug\Chart.Client.FrmChgPwd.resources
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具--毕设--原稿\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\obj\Debug\Chart.Client.FrmCode.resources
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具--毕设--原稿\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\obj\Debug\Chart.Client.FrmLogin.resources
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具--毕设--原稿\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\obj\Debug\Chart.Client.FrmMain.resources
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具--毕设--原稿\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\obj\Debug\Chart.Client.Properties.Resources.resources
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具--毕设--原稿\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\obj\Debug\Chart.Client.csproj.GenerateResource.cache
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具--毕设--原稿\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\obj\Debug\Chart.Client.csproj.CoreCompileInputs.cache
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具--毕设--原稿\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\obj\Debug\Chart.Client.csproj.CopyComplete
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具--毕设--原稿\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\obj\Debug\Chart.Client.exe
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具--毕设--原稿\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\obj\Debug\Chart.Client.pdb
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\bin\Debug\Chart.Client.exe.config
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\bin\Debug\Chart.Client.exe
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\bin\Debug\Chart.Client.pdb
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\bin\Debug\Chart.Core.dll
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\bin\Debug\Chart.Core.pdb
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\obj\Debug\Chart.Client.csprojAssemblyReference.cache
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\obj\Debug\Chart.Client.FrmChgPwd.resources
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\obj\Debug\Chart.Client.FrmCode.resources
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\obj\Debug\Chart.Client.FrmLogin.resources
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\obj\Debug\Chart.Client.FrmMain.resources
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\obj\Debug\Chart.Client.Properties.Resources.resources
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\obj\Debug\Chart.Client.csproj.GenerateResource.cache
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\obj\Debug\Chart.Client.csproj.CoreCompileInputs.cache
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\obj\Debug\Chart.Client.csproj.CopyComplete
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\obj\Debug\Chart.Client.exe
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\obj\Debug\Chart.Client.pdb
+C:\Users\wmr\Desktop\安全网络聊天工具[源代码]\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\obj\Debug\Chart.Client.FrmInvIn.resources
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\bin\Debug\Chart.Client.exe.config
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\bin\Debug\Chart.Client.exe
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\bin\Debug\Chart.Client.pdb
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\bin\Debug\Chart.Core.dll
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\bin\Debug\Chart.Core.pdb
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\obj\Debug\Chart.Client.csprojAssemblyReference.cache
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\obj\Debug\Chart.Client.FrmChgPwd.resources
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\obj\Debug\Chart.Client.FrmInvIn.resources
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\obj\Debug\Chart.Client.FrmLogin.resources
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\obj\Debug\Chart.Client.FrmMain.resources
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\obj\Debug\Chart.Client.Properties.Resources.resources
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\obj\Debug\Chart.Client.csproj.GenerateResource.cache
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\obj\Debug\Chart.Client.csproj.CoreCompileInputs.cache
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\obj\Debug\Chart.Client.csproj.CopyComplete
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\obj\Debug\Chart.Client.exe
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\obj\Debug\Chart.Client.pdb
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 -\Chart.Client\obj\Debug\Chart.Client.FrmInvOut.resources
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 - - 副本 (3)\Chart.Client\bin\Debug\Chart.Client.exe.config
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 - - 副本 (3)\Chart.Client\bin\Debug\Chart.Client.exe
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 - - 副本 (3)\Chart.Client\bin\Debug\Chart.Client.pdb
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 - - 副本 (3)\Chart.Client\bin\Debug\Chart.Core.dll
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 - - 副本 (3)\Chart.Client\bin\Debug\Chart.Core.pdb
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 - - 副本 (3)\Chart.Client\obj\Debug\Chart.Client.csprojAssemblyReference.cache
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 - - 副本 (3)\Chart.Client\obj\Debug\Chart.Client.FrmChgPwd.resources
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 - - 副本 (3)\Chart.Client\obj\Debug\Chart.Client.FrmInvOut.resources
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 - - 副本 (3)\Chart.Client\obj\Debug\Chart.Client.FrmInvIn.resources
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 - - 副本 (3)\Chart.Client\obj\Debug\Chart.Client.FrmLogin.resources
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 - - 副本 (3)\Chart.Client\obj\Debug\Chart.Client.FrmMain.resources
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 - - 副本 (3)\Chart.Client\obj\Debug\Chart.Client.Properties.Resources.resources
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 - - 副本 (3)\Chart.Client\obj\Debug\Chart.Client.csproj.GenerateResource.cache
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 - - 副本 (3)\Chart.Client\obj\Debug\Chart.Client.csproj.CoreCompileInputs.cache
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 - - 副本 (3)\Chart.Client\obj\Debug\Chart.Client.csproj.CopyComplete
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 - - 副本 (3)\Chart.Client\obj\Debug\Chart.Client.exe
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 - - 副本 (3)\Chart.Client\obj\Debug\Chart.Client.pdb
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\bin\Debug\Chart.Client.exe.config
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\bin\Debug\Chart.Client.exe
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\bin\Debug\Chart.Client.pdb
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\bin\Debug\Chart.Core.dll
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\bin\Debug\Chart.Core.pdb
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.csprojAssemblyReference.cache
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.FrmChgPwd.resources
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.FrmInvOut.resources
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.FrmInvIn.resources
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.FrmLogin.resources
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.FrmMain.resources
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.Properties.Resources.resources
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.csproj.GenerateResource.cache
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.csproj.CoreCompileInputs.cache
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.csproj.CopyComplete
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.exe
+D:\安全网络聊天工具--毕设--原稿 - 重写\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.pdb
+D:\安全网络聊天工具--毕设--原稿 - 重写\隐秘通信初稿 -完善\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.csprojAssemblyReference.cache
+D:\安全网络聊天工具--毕设--原稿 - 重写\隐秘通信初稿 -完善\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.FrmChgPwd.resources
+D:\安全网络聊天工具--毕设--原稿 - 重写\隐秘通信初稿 -完善\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.FrmEncode.resources
+D:\安全网络聊天工具--毕设--原稿 - 重写\隐秘通信初稿 -完善\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.FrmInvOut.resources
+D:\安全网络聊天工具--毕设--原稿 - 重写\隐秘通信初稿 -完善\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.FrmInvIn.resources
+D:\安全网络聊天工具--毕设--原稿 - 重写\隐秘通信初稿 -完善\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.FrmLogin.resources
+D:\安全网络聊天工具--毕设--原稿 - 重写\隐秘通信初稿 -完善\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.FrmMain.resources
+D:\安全网络聊天工具--毕设--原稿 - 重写\隐秘通信初稿 -完善\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.Properties.Resources.resources
+D:\安全网络聊天工具--毕设--原稿 - 重写\隐秘通信初稿 -完善\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.csproj.GenerateResource.cache
+D:\安全网络聊天工具--毕设--原稿 - 重写\隐秘通信初稿 -完善\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.csproj.CoreCompileInputs.cache
+D:\安全网络聊天工具--毕设--原稿 - 重写\隐秘通信初稿 -完善\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.exe
+D:\安全网络聊天工具--毕设--原稿 - 重写\隐秘通信初稿 -完善\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.pdb
+D:\安全网络聊天工具--毕设--原稿 - 重写\隐秘通信初稿 -完善\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\bin\Debug\Chart.Client.exe.config
+D:\安全网络聊天工具--毕设--原稿 - 重写\隐秘通信初稿 -完善\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\bin\Debug\Chart.Client.exe
+D:\安全网络聊天工具--毕设--原稿 - 重写\隐秘通信初稿 -完善\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\bin\Debug\Chart.Client.pdb
+D:\安全网络聊天工具--毕设--原稿 - 重写\隐秘通信初稿 -完善\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\bin\Debug\Chart.Core.dll
+D:\安全网络聊天工具--毕设--原稿 - 重写\隐秘通信初稿 -完善\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\bin\Debug\Chart.Core.pdb
+D:\安全网络聊天工具--毕设--原稿 - 重写\隐秘通信初稿 -完善\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.csproj.CopyComplete
+C:\Users\wmr\Desktop\互审修改版（截止到5月27）\互审最终版--交给老师\隐秘通信初稿 -完善\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\bin\Debug\Chart.Client.exe.config
+C:\Users\wmr\Desktop\互审修改版（截止到5月27）\互审最终版--交给老师\隐秘通信初稿 -完善\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\bin\Debug\Chart.Client.exe
+C:\Users\wmr\Desktop\互审修改版（截止到5月27）\互审最终版--交给老师\隐秘通信初稿 -完善\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\bin\Debug\Chart.Client.pdb
+C:\Users\wmr\Desktop\互审修改版（截止到5月27）\互审最终版--交给老师\隐秘通信初稿 -完善\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\bin\Debug\Chart.Core.dll
+C:\Users\wmr\Desktop\互审修改版（截止到5月27）\互审最终版--交给老师\隐秘通信初稿 -完善\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\bin\Debug\Chart.Core.pdb
+C:\Users\wmr\Desktop\互审修改版（截止到5月27）\互审最终版--交给老师\隐秘通信初稿 -完善\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.csprojAssemblyReference.cache
+C:\Users\wmr\Desktop\互审修改版（截止到5月27）\互审最终版--交给老师\隐秘通信初稿 -完善\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.FrmChgPwd.resources
+C:\Users\wmr\Desktop\互审修改版（截止到5月27）\互审最终版--交给老师\隐秘通信初稿 -完善\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.FrmEncode.resources
+C:\Users\wmr\Desktop\互审修改版（截止到5月27）\互审最终版--交给老师\隐秘通信初稿 -完善\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.FrmInvOut.resources
+C:\Users\wmr\Desktop\互审修改版（截止到5月27）\互审最终版--交给老师\隐秘通信初稿 -完善\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.FrmInvIn.resources
+C:\Users\wmr\Desktop\互审修改版（截止到5月27）\互审最终版--交给老师\隐秘通信初稿 -完善\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.FrmLogin.resources
+C:\Users\wmr\Desktop\互审修改版（截止到5月27）\互审最终版--交给老师\隐秘通信初稿 -完善\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.FrmMain.resources
+C:\Users\wmr\Desktop\互审修改版（截止到5月27）\互审最终版--交给老师\隐秘通信初稿 -完善\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.Properties.Resources.resources
+C:\Users\wmr\Desktop\互审修改版（截止到5月27）\互审最终版--交给老师\隐秘通信初稿 -完善\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.csproj.GenerateResource.cache
+C:\Users\wmr\Desktop\互审修改版（截止到5月27）\互审最终版--交给老师\隐秘通信初稿 -完善\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.csproj.CoreCompileInputs.cache
+C:\Users\wmr\Desktop\互审修改版（截止到5月27）\互审最终版--交给老师\隐秘通信初稿 -完善\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.csproj.CopyComplete
+C:\Users\wmr\Desktop\互审修改版（截止到5月27）\互审最终版--交给老师\隐秘通信初稿 -完善\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.exe
+C:\Users\wmr\Desktop\互审修改版（截止到5月27）\互审最终版--交给老师\隐秘通信初稿 -完善\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.pdb
+C:\Users\wmr\Desktop\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\bin\Debug\Chart.Client.exe.config
+C:\Users\wmr\Desktop\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\bin\Debug\Chart.Client.exe
+C:\Users\wmr\Desktop\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\bin\Debug\Chart.Client.pdb
+C:\Users\wmr\Desktop\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\bin\Debug\Chart.Core.dll
+C:\Users\wmr\Desktop\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\bin\Debug\Chart.Core.pdb
+C:\Users\wmr\Desktop\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.csprojAssemblyReference.cache
+C:\Users\wmr\Desktop\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.FrmChgPwd.resources
+C:\Users\wmr\Desktop\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.FrmEncode.resources
+C:\Users\wmr\Desktop\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.FrmInvOut.resources
+C:\Users\wmr\Desktop\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.FrmInvIn.resources
+C:\Users\wmr\Desktop\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.FrmLogin.resources
+C:\Users\wmr\Desktop\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.FrmMain.resources
+C:\Users\wmr\Desktop\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.Properties.Resources.resources
+C:\Users\wmr\Desktop\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.csproj.GenerateResource.cache
+C:\Users\wmr\Desktop\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.csproj.CoreCompileInputs.cache
+C:\Users\wmr\Desktop\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.csproj.CopyComplete
+C:\Users\wmr\Desktop\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.exe
+C:\Users\wmr\Desktop\安全网络聊天工具[v1 ] 客户端 - -\Chart.Client\obj\Debug\Chart.Client.pdb
+C:\Users\wmr\Desktop\安全网络聊天工具[v1 ] 客户端 - -\修改\Chart.Client\bin\Debug\Chart.Client.exe.config
+C:\Users\wmr\Desktop\安全网络聊天工具[v1 ] 客户端 - -\修改\Chart.Client\bin\Debug\Chart.Client.exe
+C:\Users\wmr\Desktop\安全网络聊天工具[v1 ] 客户端 - -\修改\Chart.Client\bin\Debug\Chart.Client.pdb
+C:\Users\wmr\Desktop\安全网络聊天工具[v1 ] 客户端 - -\修改\Chart.Client\bin\Debug\Chart.Core.dll
+C:\Users\wmr\Desktop\安全网络聊天工具[v1 ] 客户端 - -\修改\Chart.Client\bin\Debug\Chart.Core.pdb
+C:\Users\wmr\Desktop\安全网络聊天工具[v1 ] 客户端 - -\修改\Chart.Client\obj\Debug\Chart.Client.csprojAssemblyReference.cache
+C:\Users\wmr\Desktop\安全网络聊天工具[v1 ] 客户端 - -\修改\Chart.Client\obj\Debug\Chart.Client.FrmChgPwd.resources
+C:\Users\wmr\Desktop\安全网络聊天工具[v1 ] 客户端 - -\修改\Chart.Client\obj\Debug\Chart.Client.FrmEncode.resources
+C:\Users\wmr\Desktop\安全网络聊天工具[v1 ] 客户端 - -\修改\Chart.Client\obj\Debug\Chart.Client.FrmInvOut.resources
+C:\Users\wmr\Desktop\安全网络聊天工具[v1 ] 客户端 - -\修改\Chart.Client\obj\Debug\Chart.Client.FrmInvIn.resources
+C:\Users\wmr\Desktop\安全网络聊天工具[v1 ] 客户端 - -\修改\Chart.Client\obj\Debug\Chart.Client.FrmLogin.resources
+C:\Users\wmr\Desktop\安全网络聊天工具[v1 ] 客户端 - -\修改\Chart.Client\obj\Debug\Chart.Client.FrmMain.resources
+C:\Users\wmr\Desktop\安全网络聊天工具[v1 ] 客户端 - -\修改\Chart.Client\obj\Debug\Chart.Client.Properties.Resources.resources
+C:\Users\wmr\Desktop\安全网络聊天工具[v1 ] 客户端 - -\修改\Chart.Client\obj\Debug\Chart.Client.csproj.GenerateResource.cache
+C:\Users\wmr\Desktop\安全网络聊天工具[v1 ] 客户端 - -\修改\Chart.Client\obj\Debug\Chart.Client.csproj.CoreCompileInputs.cache
+C:\Users\wmr\Desktop\安全网络聊天工具[v1 ] 客户端 - -\修改\Chart.Client\obj\Debug\Chart.Client.csproj.CopyComplete
+C:\Users\wmr\Desktop\安全网络聊天工具[v1 ] 客户端 - -\修改\Chart.Client\obj\Debug\Chart.Client.exe
+C:\Users\wmr\Desktop\安全网络聊天工具[v1 ] 客户端 - -\修改\Chart.Client\obj\Debug\Chart.Client.pdb
+C:\Users\wmr\Desktop\修改\Chart.Client\bin\Debug\Chart.Client.exe.config
+C:\Users\wmr\Desktop\修改\Chart.Client\bin\Debug\Chart.Client.exe
+C:\Users\wmr\Desktop\修改\Chart.Client\bin\Debug\Chart.Client.pdb
+C:\Users\wmr\Desktop\修改\Chart.Client\bin\Debug\Chart.Core.dll
+C:\Users\wmr\Desktop\修改\Chart.Client\bin\Debug\Chart.Core.pdb
+C:\Users\wmr\Desktop\修改\Chart.Client\obj\Debug\Chart.Client.FrmChgPwd.resources
+C:\Users\wmr\Desktop\修改\Chart.Client\obj\Debug\Chart.Client.FrmEncode.resources
+C:\Users\wmr\Desktop\修改\Chart.Client\obj\Debug\Chart.Client.FrmInvOut.resources
+C:\Users\wmr\Desktop\修改\Chart.Client\obj\Debug\Chart.Client.FrmInvIn.resources
+C:\Users\wmr\Desktop\修改\Chart.Client\obj\Debug\Chart.Client.FrmLogin.resources
+C:\Users\wmr\Desktop\修改\Chart.Client\obj\Debug\Chart.Client.FrmMain.resources
+C:\Users\wmr\Desktop\修改\Chart.Client\obj\Debug\Chart.Client.Properties.Resources.resources
+C:\Users\wmr\Desktop\修改\Chart.Client\obj\Debug\Chart.Client.csproj.GenerateResource.cache
+C:\Users\wmr\Desktop\修改\Chart.Client\obj\Debug\Chart.Client.csproj.CoreCompileInputs.cache
+C:\Users\wmr\Desktop\修改\Chart.Client\obj\Debug\Chart.Client.csproj.CopyComplete
+C:\Users\wmr\Desktop\修改\Chart.Client\obj\Debug\Chart.Client.exe
+C:\Users\wmr\Desktop\修改\Chart.Client\obj\Debug\Chart.Client.pdb
+C:\Users\wmr\Desktop\修改\Chart.Client\obj\Debug\Chart.Client.csprojAssemblyReference.cache
+C:\Users\wmr\Desktop\毕设项目-最终版 - 修改\修改\Chart.Client\obj\Debug\Chart.Client.csprojAssemblyReference.cache
+C:\Users\wmr\Desktop\毕设项目-最终版 - 修改\修改\Chart.Client\obj\Debug\Chart.Client.FrmChgPwd.resources
+C:\Users\wmr\Desktop\毕设项目-最终版 - 修改\修改\Chart.Client\obj\Debug\Chart.Client.FrmEncode.resources
+C:\Users\wmr\Desktop\毕设项目-最终版 - 修改\修改\Chart.Client\obj\Debug\Chart.Client.FrmInvOut.resources
+C:\Users\wmr\Desktop\毕设项目-最终版 - 修改\修改\Chart.Client\obj\Debug\Chart.Client.FrmInvIn.resources
+C:\Users\wmr\Desktop\毕设项目-最终版 - 修改\修改\Chart.Client\obj\Debug\Chart.Client.FrmLogin.resources
+C:\Users\wmr\Desktop\毕设项目-最终版 - 修改\修改\Chart.Client\obj\Debug\Chart.Client.FrmMain.resources
+C:\Users\wmr\Desktop\毕设项目-最终版 - 修改\修改\Chart.Client\obj\Debug\Chart.Client.Properties.Resources.resources
+C:\Users\wmr\Desktop\毕设项目-最终版 - 修改\修改\Chart.Client\obj\Debug\Chart.Client.csproj.GenerateResource.cache
+C:\Users\wmr\Desktop\毕设项目-最终版 - 修改\修改\Chart.Client\obj\Debug\Chart.Client.csproj.CoreCompileInputs.cache
+C:\Users\wmr\Desktop\毕设项目-最终版 - 修改\修改\Chart.Client\obj\Debug\Chart.Client.exe
+C:\Users\wmr\Desktop\毕设项目-最终版 - 修改\修改\Chart.Client\obj\Debug\Chart.Client.pdb
+C:\Users\wmr\Desktop\毕设项目-最终版 - 修改\修改\Chart.Client\bin\Debug\Chart.Client.exe.config
+C:\Users\wmr\Desktop\毕设项目-最终版 - 修改\修改\Chart.Client\bin\Debug\Chart.Client.exe
+C:\Users\wmr\Desktop\毕设项目-最终版 - 修改\修改\Chart.Client\bin\Debug\Chart.Client.pdb
+C:\Users\wmr\Desktop\毕设项目-最终版 - 修改\修改\Chart.Client\bin\Debug\Chart.Core.dll
+C:\Users\wmr\Desktop\毕设项目-最终版 - 修改\修改\Chart.Client\bin\Debug\Chart.Core.pdb
+C:\Users\wmr\Desktop\毕设项目-最终版 - 修改\修改\Chart.Client\obj\Debug\Chart.Client.csproj.CopyComplete
+C:\Users\wmr\Desktop\答辩\客户端1\Chart.Client\bin\Debug\Chart.Client.exe.config
+C:\Users\wmr\Desktop\答辩\客户端1\Chart.Client\bin\Debug\Chart.Client.exe
+C:\Users\wmr\Desktop\答辩\客户端1\Chart.Client\bin\Debug\Chart.Client.pdb
+C:\Users\wmr\Desktop\答辩\客户端1\Chart.Client\bin\Debug\Chart.Core.dll
+C:\Users\wmr\Desktop\答辩\客户端1\Chart.Client\bin\Debug\Chart.Core.pdb
+C:\Users\wmr\Desktop\答辩\客户端1\Chart.Client\obj\Debug\Chart.Client.csprojAssemblyReference.cache
+C:\Users\wmr\Desktop\答辩\客户端1\Chart.Client\obj\Debug\Chart.Client.FrmChgPwd.resources
+C:\Users\wmr\Desktop\答辩\客户端1\Chart.Client\obj\Debug\Chart.Client.FrmEncode.resources
+C:\Users\wmr\Desktop\答辩\客户端1\Chart.Client\obj\Debug\Chart.Client.FrmInvOut.resources
+C:\Users\wmr\Desktop\答辩\客户端1\Chart.Client\obj\Debug\Chart.Client.FrmInvIn.resources
+C:\Users\wmr\Desktop\答辩\客户端1\Chart.Client\obj\Debug\Chart.Client.FrmLogin.resources
+C:\Users\wmr\Desktop\答辩\客户端1\Chart.Client\obj\Debug\Chart.Client.FrmMain.resources
+C:\Users\wmr\Desktop\答辩\客户端1\Chart.Client\obj\Debug\Chart.Client.Properties.Resources.resources
+C:\Users\wmr\Desktop\答辩\客户端1\Chart.Client\obj\Debug\Chart.Client.csproj.GenerateResource.cache
+C:\Users\wmr\Desktop\答辩\客户端1\Chart.Client\obj\Debug\Chart.Client.csproj.CoreCompileInputs.cache
+C:\Users\wmr\Desktop\答辩\客户端1\Chart.Client\obj\Debug\Chart.Client.csproj.CopyComplete
+C:\Users\wmr\Desktop\答辩\客户端1\Chart.Client\obj\Debug\Chart.Client.exe
+C:\Users\wmr\Desktop\答辩\客户端1\Chart.Client\obj\Debug\Chart.Client.pdb
+C:\Users\wmr\Desktop\刻入光盘-修改后\程序\客户端1\Chart.Client\bin\Debug\Chart.Client.exe.config
+C:\Users\wmr\Desktop\刻入光盘-修改后\程序\客户端1\Chart.Client\bin\Debug\Chart.Client.exe
+C:\Users\wmr\Desktop\刻入光盘-修改后\程序\客户端1\Chart.Client\bin\Debug\Chart.Client.pdb
+C:\Users\wmr\Desktop\刻入光盘-修改后\程序\客户端1\Chart.Client\bin\Debug\Chart.Core.dll
+C:\Users\wmr\Desktop\刻入光盘-修改后\程序\客户端1\Chart.Client\bin\Debug\Chart.Core.pdb
+C:\Users\wmr\Desktop\刻入光盘-修改后\程序\客户端1\Chart.Client\obj\Debug\Chart.Client.csprojAssemblyReference.cache
+C:\Users\wmr\Desktop\刻入光盘-修改后\程序\客户端1\Chart.Client\obj\Debug\Chart.Client.FrmChgPwd.resources
+C:\Users\wmr\Desktop\刻入光盘-修改后\程序\客户端1\Chart.Client\obj\Debug\Chart.Client.FrmEncode.resources
+C:\Users\wmr\Desktop\刻入光盘-修改后\程序\客户端1\Chart.Client\obj\Debug\Chart.Client.FrmInvOut.resources
+C:\Users\wmr\Desktop\刻入光盘-修改后\程序\客户端1\Chart.Client\obj\Debug\Chart.Client.FrmInvIn.resources
+C:\Users\wmr\Desktop\刻入光盘-修改后\程序\客户端1\Chart.Client\obj\Debug\Chart.Client.FrmLogin.resources
+C:\Users\wmr\Desktop\刻入光盘-修改后\程序\客户端1\Chart.Client\obj\Debug\Chart.Client.FrmMain.resources
+C:\Users\wmr\Desktop\刻入光盘-修改后\程序\客户端1\Chart.Client\obj\Debug\Chart.Client.Properties.Resources.resources
+C:\Users\wmr\Desktop\刻入光盘-修改后\程序\客户端1\Chart.Client\obj\Debug\Chart.Client.csproj.GenerateResource.cache
+C:\Users\wmr\Desktop\刻入光盘-修改后\程序\客户端1\Chart.Client\obj\Debug\Chart.Client.csproj.CoreCompileInputs.cache
+C:\Users\wmr\Desktop\刻入光盘-修改后\程序\客户端1\Chart.Client\obj\Debug\Chart.Client.csproj.CopyComplete
+C:\Users\wmr\Desktop\刻入光盘-修改后\程序\客户端1\Chart.Client\obj\Debug\Chart.Client.exe
+C:\Users\wmr\Desktop\刻入光盘-修改后\程序\客户端1\Chart.Client\obj\Debug\Chart.Client.pdb
